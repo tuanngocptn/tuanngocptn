@@ -14,10 +14,10 @@
 const Nick = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Java, Flutter, NodeJS, Dart],
-  tools: [React, React-Native, Redux, Node, Styled - Components, Jest, Docker, Java-Spring, Flutter],
-  database: [MySQL, Postgres-SQL, MongoDB],
+  tools: [React, React Native, Redux, Node, Styled - Components, Jest, Docker, Java-Spring, Flutter],
+  database: [MySQL, PostgresSQL, MongoDB],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  ci: [Jenkins, Github action, Gitlab-CI],
+  ci: [Jenkins, Github action, "Gitlab-CI"],
   other: [Docker, Kubernetes, Nginx,RESTful API, Design Pattern, Data Structure, Algorithm],
 };
 ```
