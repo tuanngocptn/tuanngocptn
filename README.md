@@ -1,8 +1,8 @@
 <h2> Hi, I'm Nick Pham! 👋🏻</h2>
 <p>
-  <em>Technical owner at <a href="https://libertycarz.com/">libertycarz.com</a></em> 🏢
+  <em>Technical owner at <a href="https://libertycarz.com/">Liberty Carz</a></em> 🏢
   </br>
-  <em>Mobile leader at <a href="https://tesosoft.com/">Tesosoft</a> 🕴🏻</em>
+  <em>Mobile leader at <a href="https://tesosoft.com/">Teso Soft</a> 🕴🏻</em>
 </p>
 
 [![Linkedin: tuanngocptn](https://img.shields.io/badge/-tuanngocptn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuanngocptn/)](https://www.linkedin.com/in/tuanngocptn/)
