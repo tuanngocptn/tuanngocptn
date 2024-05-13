@@ -13,7 +13,7 @@
 
 [![tuanngocptn's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5558052?theme=dark&website=true&location=true)](https://stackoverflow.com/users/5558052/tuanngocptn)
 
-[![user:5558052's ranking for react-native](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/react-native/5558052?theme=cobalt)](https://stackoverflow-readme-profile.vercel.app/tags-league/react-native/users/5558052) [![user:5558052's ranking for flutter](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/flutter/5558052?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/flutter/users/5558052)
+[![user:5558052's ranking for react-native](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/react-native/5558052?theme=cobalt)](https://stackoverflow-readme-profile.vercel.app/tags-league/react-native/users/5558052) [![user:5558052's ranking for flutter](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/flutter/5558052?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/flutter/users/5558052) [![user:5558052's ranking for postgresql](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/postgresql/5558052?theme=default)](https://stackoverflow-readme-profile.vercel.app/tags-league/postgresql/users/5558052)
 
 ```javascript
 const Nick = {
