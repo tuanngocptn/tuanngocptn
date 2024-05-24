@@ -4,9 +4,9 @@
 [![GitHub tuanngocptn](https://img.shields.io/github/followers/tuanngocptn?label=follow&style=social)](https://github.com/tuanngocptn)
 
 <p>
-  <em>Technical owner at <a href="https://libertycarz.com/">Liberty Carz</a></em> 🏢
+  <em>Technical owner at <a href="https://libertycarz.com/">Liberty Carz</a></em>
   </br>
-  <em>Mobile leader at <a href="https://tesosoft.com/">Teso Soft</a> 🕴🏻</em>
+  <em>Mobile leader at <a href="https://tesosoft.com/">Teso Soft</a></em>
 </p>
 
 ### A little more about me...
