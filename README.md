@@ -5,8 +5,8 @@
 
 <p>
   <em>Technical owner at <a href="https://libertycarz.com/">Liberty Carz</a>.</em>
-  </br>
-  <em>Technical leader at <a href="https://tesosoft.com/">Teso Soft</a>.</em>
+<!--   </br> -->
+<!--   <em>Technical leader at <a href="https://tesosoft.com/">Teso Soft</a>.</em> -->
 </p>
 
 ### A little more about me...
